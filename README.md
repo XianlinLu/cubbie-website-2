@@ -1,6 +1,6 @@
 # Cubbie desktop website
 
-**[Open the live website](https://cubbie-desktop-xianlin.videotuor-1490.chatgpt.site/)**
+**[Open the live website on GitHub Pages](https://xianlinlu.github.io/cubbie-website-2/)**
 
 A Cubbie desktop frontend developed and maintained by **XianlinLu (Arianna Xianlin Lu)**, using Next.js, React, and TypeScript.
 

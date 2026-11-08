@@ -53,9 +53,9 @@ export function Navigation() {
           {/* The supplied logo is deliberately preserved as a single image. */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={`${ASSETS}/cubbie-logo.png`}
-            width={559}
-            height={103}
+            src={`${ASSETS}/cubbie-logo-green.png`}
+            width={2578}
+            height={860}
             alt="Cubbie"
           />
         </a>

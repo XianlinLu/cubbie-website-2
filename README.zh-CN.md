@@ -1,6 +1,6 @@
 # Cubbie 桌面网站
 
-**[点击访问在线网站](https://cubbie-desktop-xianlin.videotuor-1490.chatgpt.site/)**
+**[点击访问 GitHub Pages 在线网站](https://xianlinlu.github.io/cubbie-website-2/)**
 
 由 **XianlinLu（Arianna Xianlin Lu）** 开发和维护的 Cubbie 桌面前端项目，使用 Next.js、React 和 TypeScript。
 

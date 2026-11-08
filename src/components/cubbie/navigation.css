@@ -31,8 +31,10 @@
 }
 .nav-brand img {
   display: block;
-  width: 230px;
-  height: 43px;
+  width: 150px;
+  height: auto;
+  max-height: 48px;
+  margin-left: 20px;
   max-width: none;
   object-fit: contain;
 }

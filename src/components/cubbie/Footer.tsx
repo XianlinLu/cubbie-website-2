@@ -52,10 +52,10 @@ export function Footer() {
         <div className="footer-bottom">
           <a className="footer-brand" href="#top" aria-label="Cubbie home">
             <Image
-              src={`${ASSETS}/cubbie-logo.png`}
+              src={`${ASSETS}/cubbie-logo-black.png`}
               alt="Cubbie"
-              width={559}
-              height={103}
+              width={2578}
+              height={860}
               className="footer-logo"
             />
           </a>

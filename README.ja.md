@@ -1,6 +1,6 @@
 # Cubbie デスクトップサイト
 
-**[公開サイトを開く](https://cubbie-desktop-xianlin.videotuor-1490.chatgpt.site/)**
+**[GitHub Pages の公開サイトを開く](https://xianlinlu.github.io/cubbie-website-2/)**
 
 **XianlinLu（Arianna Xianlin Lu）** が開発・管理する、Next.js、React、TypeScript を使用した Cubbie のデスクトップ向けフロントエンドです。
 
