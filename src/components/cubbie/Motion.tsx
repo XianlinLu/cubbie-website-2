@@ -9,7 +9,7 @@ export function Motion() {
   useEffect(() => {
     if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     document.documentElement.classList.add("motion-ready");
-    // MindMarket uses Locomotive 5 with the default Lenis .1 lerp and wheel multiplier 1.
+    // Smooth desktop scrolling; respect reduced-motion preferences.
     const lenis = new Lenis({
       lerp: 0.1,
       wheelMultiplier: 1,

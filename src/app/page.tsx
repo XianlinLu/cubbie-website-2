@@ -1,8 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
-import { ASSETS } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/shared";
-import { Navigation } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/Navigation";
-import { Hero } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/Hero";
-import { Timeline } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/Timeline";
+import { ASSETS } from "@/components/cubbie/shared";
+import { Navigation } from "@/components/cubbie/Navigation";
+import { Hero } from "@/components/cubbie/Hero";
+import { Timeline } from "@/components/cubbie/Timeline";
 import {
   CanvasSection,
   CourseworkSection,
@@ -10,11 +10,11 @@ import {
   HowItWorks,
   ControlSection,
   FAQ,
-} from "@/components/sites/mindmarket-f3496669/root-8a5edab2/ContentSections";
-import { WeekPlanner } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/WeekPlanner";
-import { Footer } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/Footer";
-import { CookieConsent } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/CookieConsent";
-import { Motion } from "@/components/sites/mindmarket-f3496669/root-8a5edab2/Motion";
+} from "@/components/cubbie/ContentSections";
+import { WeekPlanner } from "@/components/cubbie/WeekPlanner";
+import { Footer } from "@/components/cubbie/Footer";
+import { CookieConsent } from "@/components/cubbie/CookieConsent";
+import { Motion } from "@/components/cubbie/Motion";
 export default function Home() {
   return (
     <>

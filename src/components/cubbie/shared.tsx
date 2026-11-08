@@ -1,5 +1,5 @@
 import type { ContentLink } from "./content";
-export const ASSETS = `${process.env.NEXT_PUBLIC_BASE_PATH || ""}/sites/mindmarket-f3496669/root-8a5edab2`;
+export const ASSETS = `${process.env.NEXT_PUBLIC_BASE_PATH || ""}/cubbie`;
 export function sourceHref(href: string) {
   if (href.startsWith("#") || href.startsWith("https:")) return href;
   if (href === "/") return "#top";

@@ -4,15 +4,15 @@ import "./globals.css";
 const inter = localFont({
   src: [
     {
-      path: "../../public/sites/mindmarket-f3496669/root-8a5edab2/fonts/inter-latin-400-normal.woff2",
+      path: "../../public/cubbie/fonts/inter-latin-400-normal.woff2",
       weight: "400",
     },
     {
-      path: "../../public/sites/mindmarket-f3496669/root-8a5edab2/fonts/inter-latin-500-normal.woff2",
+      path: "../../public/cubbie/fonts/inter-latin-500-normal.woff2",
       weight: "500",
     },
     {
-      path: "../../public/sites/mindmarket-f3496669/root-8a5edab2/fonts/inter-latin-700-normal.woff2",
+      path: "../../public/cubbie/fonts/inter-latin-700-normal.woff2",
       weight: "700",
     },
   ],

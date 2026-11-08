@@ -1,54 +1,23 @@
-# Contributing
+# Contributing to Cubbie
 
-Thanks for your interest in improving the **AI Website Cloner Template**! This guide covers how to contribute to the template itself.
+Contributions should improve this project's frontend components, accessibility, interactions, content integration, tests, or documentation.
 
-> **Note:** This repository is a *template*. If you just want to clone a website, don't open a PR here — click **Use this template** to make your own copy and work there (see the [README](README.md#quick-start)). Pull requests should improve the template: the `/clone-website` skill, agent platform support, the scaffold, or the docs.
+## Development
 
-## Ways to contribute
+Requires Node.js 24 or newer. Open this repository locally and run:
 
-- **Improve the `/clone-website` skill** — sharper extraction, better prompts, new behaviors to detect
-- **Add or fix agent platform support** — new coding agents, or fixes to existing generated configs
-- **Fix bugs** in the Next.js scaffold or the sync scripts
-- **Improve documentation** — the README, `AGENTS.md`, or the inspection guides under `docs/research/`
-
-Browse the [open issues](https://github.com/JCodesMore/ai-website-cloner-template/issues) for something to pick up. For substantial or potentially breaking changes, consider opening an issue first so we can align on the approach before significant work begins.
-
-## Development setup
-
-**Prerequisites:** [Node.js](https://nodejs.org/) 24+.
-
-```bash
-git clone https://github.com/YOUR-USERNAME/ai-website-cloner-template.git
-cd ai-website-cloner-template
+```sh
 npm ci
+npm run dev
 ```
 
-Before opening a PR, make sure the project is green:
+Before submitting a pull request, run:
 
-```bash
-npm run check   # lint + typecheck + build
+```sh
+npm run check
+npm run verify:content
 ```
 
-## Source-of-truth files & the sync scripts
+Create focused branches from `main` and open pull requests against `main`. Explain the change and include relevant desktop verification when the UI changes. Existing issue templates may be used for reproducible bugs or feature requests.
 
-This is the most important thing to know. Two source files generate the platform-specific project instructions and `/clone-website` skill copies. Edit the source files rather than their generated copies.
-
-| What                   | Edit this (source of truth)             | Then run                           |
-| ---------------------- | --------------------------------------- | ---------------------------------- |
-| Project instructions   | `AGENTS.md`                             | `bash scripts/sync-agent-rules.sh` |
-| `/clone-website` skill | `.claude/skills/clone-website/SKILL.md` | `node scripts/sync-skills.mjs`     |
-
-After editing a source file, run the matching sync command and commit the regenerated files along with your change. CI verifies that the generated files are in sync — if you forget to regenerate, CI will fail with a reminder.
-
-## Submitting a pull request
-
-1. **Fork** the repo and create a branch off `master` (e.g. `fix/skill-hover-extraction` or `docs/clarify-setup`).
-2. Make your change. If you touched a source-of-truth file, **run the relevant sync script** (see above).
-3. Run `npm run check` and make sure it passes.
-4. Write a clear commit message that describes the change. Prefixes such as `fix:`, `feat:`, or `docs:` are welcome but not required.
-5. Open a PR against `master`, fill out the PR template, and link a relevant issue when one exists (for example, `Closes #123`).
-6. Keep PRs focused — one logical change per PR is much easier to review and merge.
-
-## Questions
-
-Ask in the [Discord community](https://discord.gg/hrTSX5yTpB) — happy to help you get started.
+Keep third-party license notices and source attribution intact. Read `docs/ATTRIBUTION.md` before changing media or making authorship claims.

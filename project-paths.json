@@ -1,8 +1,8 @@
 {
-  "site": "mindmarket-f3496669",
-  "page": "root-8a5edab2",
-  "components": "src/components/sites/mindmarket-f3496669/root-8a5edab2",
-  "assets": "public/sites/mindmarket-f3496669/root-8a5edab2",
-  "research": "docs/research/mindmarket-f3496669/root-8a5edab2",
-  "screenshots": "docs/design-references/mindmarket-f3496669/root-8a5edab2"
+  "site": "cubbie",
+  "page": "home",
+  "components": "src/components/cubbie",
+  "assets": "public/cubbie",
+  "contentInventory": "docs/copy-inventory.json",
+  "attribution": "docs/ATTRIBUTION.md"
 }

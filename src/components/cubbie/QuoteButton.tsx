@@ -14,7 +14,7 @@ export function QuoteButton({ link }: { link: ContentLink }) {
       if (disposed || !canvas.current) return;
       RuntimeLoader.setWasmUrl(`${ASSETS}/rive/rive.wasm`);
       instance = new Rive({
-        src: `${ASSETS}/rive/mindmarket_cursor_crop.riv`,
+        src: `${ASSETS}/rive/cursor.riv`,
         canvas: canvas.current,
         stateMachines: "State Machine 1",
         autoplay: true,

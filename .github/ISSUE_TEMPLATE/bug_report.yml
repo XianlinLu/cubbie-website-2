@@ -23,9 +23,9 @@ body:
       label: Steps to Reproduce
       description: Step-by-step instructions to reproduce the behavior.
       placeholder: |
-        1. Run `/clone-website https://example.com`
-        2. Wait for agents to finish
-        3. See error in terminal...
+        1. Run `npm run dev`
+        2. Open the Cubbie homepage
+        3. Describe the action and observed error
     validations:
       required: true
 
@@ -49,8 +49,8 @@ body:
     id: target-url
     attributes:
       label: Target URL
-      description: The website URL you were trying to clone (if applicable).
-      placeholder: https://example.com
+      description: The Cubbie page URL where the issue occurs.
+      placeholder: https://cubbie-desktop-xianlin.videotuor-1490.chatgpt.site/
 
   - type: dropdown
     id: os

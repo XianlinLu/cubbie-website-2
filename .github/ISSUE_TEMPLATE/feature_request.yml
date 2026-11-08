@@ -36,9 +36,9 @@ body:
     attributes:
       label: Category
       options:
-        - Cloning pipeline
-        - Asset extraction
-        - Component generation
+        - Desktop interactions
+        - Media integration
+        - Components and accessibility
         - Documentation
         - Developer experience
         - Other

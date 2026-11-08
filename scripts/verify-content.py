@@ -14,7 +14,7 @@ class Text(HTMLParser):
   if not self.skip:self.parts.append(text)
 def normalize(s):return re.sub(r'\s+',' ',s).strip()
 p=Text();p.feed(Path('out/index.html').read_text());rendered=normalize(' '.join(p.parts))
-source=json.loads(Path('docs/research/mindmarket-f3496669/root-8a5edab2/copy-inventory.json').read_text())
+source=json.loads(Path('docs/copy-inventory.json').read_text())
 # The original mobile-only Menu control is intentionally excluded (desktop-only scope).
 expected=[normalize(node['text']) for node in source['textNodes'] if node['text']!='Menu']
 missing=[s for s in expected if s not in rendered]

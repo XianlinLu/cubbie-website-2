@@ -1,4 +1,4 @@
-/* Original illustration assets and desktop placement from MindMarket. */
+/* Retained third-party illustrations; see docs/ATTRIBUTION.md. */
 /* eslint-disable @next/next/no-img-element */
 import { RiveArt } from "./RiveArt";
 import { ASSETS } from "./shared";
