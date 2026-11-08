@@ -8,7 +8,6 @@ A Cubbie desktop frontend developed and maintained by **XianlinLu (Arianna Xianl
 
 This repository showcases project-specific frontend work: component composition, Cubbie content integration, desktop interaction wiring, keyboard-accessible weekday tabs and FAQ disclosures, animation integration, content validation, and static deployment setup.
 
-Original contributions refer to project-specific code and development work, not ownership of the Cubbie brand, supplied copy, retained third-party illustrations, or upstream libraries. See [source and rights information](docs/ATTRIBUTION.md) and [LICENSE](LICENSE).
 
 ## Run locally
 
