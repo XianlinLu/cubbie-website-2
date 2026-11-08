@@ -1,0 +1,111 @@
+.week-section {
+  padding: 120px 0;
+  border-radius: 50px;
+  background: var(--sand);
+}
+
+.week-heading {
+  max-width: 650px;
+}
+
+.week-tabs {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 50px 0 24px;
+}
+
+.week-tab {
+  padding: 18px 28px;
+  border-radius: 50px;
+  background: var(--cream);
+  color: var(--ink);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.25;
+  transition:
+    color 0.25s var(--ease),
+    background-color 0.25s var(--ease),
+    transform 0.25s var(--ease);
+}
+
+.week-tab:hover {
+  transform: translateY(-2px);
+  background: white;
+}
+
+.week-tab[aria-selected="true"] {
+  background: var(--ink);
+  color: white;
+}
+
+.week-stage {
+  position: relative;
+  border-radius: 30px;
+  background: white;
+}
+
+.week-panel {
+  min-height: 365px;
+  padding: 50px;
+  border-radius: 30px;
+}
+
+.week-panel[hidden] {
+  display: none;
+}
+
+.week-panel:not([hidden]) .week-panel-copy {
+  animation: week-panel-in 0.35s var(--ease) both;
+}
+
+.week-panel:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 5px;
+}
+
+.week-panel-copy {
+  width: 60%;
+  max-width: 560px;
+}
+
+.week-count {
+  margin-bottom: 23px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.week-day {
+  margin-bottom: 26px;
+  font-size: 72px;
+  line-height: 1;
+}
+
+.week-description {
+  max-width: 560px;
+  font-size: 26px;
+  line-height: 1.35;
+  letter-spacing: -0.04em;
+}
+
+.week-illustration {
+  position: absolute;
+  right: 32px;
+  bottom: 6px;
+  width: 350px;
+  height: 350px;
+  pointer-events: none;
+}
+
+.week-link {
+  margin-top: 40px;
+}
+
+@keyframes week-panel-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

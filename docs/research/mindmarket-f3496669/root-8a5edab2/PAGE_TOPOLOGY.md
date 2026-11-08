@@ -1,0 +1,4 @@
+# Page topology
+Route / replaces the untouched scaffold only.
+Fixed desktop header → green hero → intro and problem → animated four-card timeline → Canvas callout → coursework steps → school admin grid → five-day tabs → how it works → account control → FAQ → closing/footer. Cookie banner and settings dialog float above the page. Intro/hero/overview wording and all extended sections come from the complete Cubbie homepage.
+The original numeric proof/brand claims, addresses, market research articles are intentionally replaced by Cubbie material, so brand-specific false claims are not carried over. Existing original animation assets are retained under user authorization. Cubbie copy is longer: typography, total page length and section composition are adapted; this is not an identical screenshot of MindMarket.

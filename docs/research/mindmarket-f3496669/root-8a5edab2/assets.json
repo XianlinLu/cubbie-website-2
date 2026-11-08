@@ -1,0 +1,247 @@
+[
+  {
+    "source": "https://mindmarket.com/fonts/inter-latin-400-normal.woff2",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/fonts/inter-latin-400-normal.woff2",
+    "bytes": 23664
+  },
+  {
+    "source": "https://mindmarket.com/fonts/inter-latin-500-normal.woff2",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/fonts/inter-latin-500-normal.woff2",
+    "bytes": 24272
+  },
+  {
+    "source": "https://mindmarket.com/fonts/inter-latin-700-normal.woff2",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/fonts/inter-latin-700-normal.woff2",
+    "bytes": 24356
+  },
+  {
+    "source": "https://mindmarket.com/rive/basketball_player.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/basketball_player.riv",
+    "bytes": 27941
+  },
+  {
+    "source": "https://mindmarket.com/rive/binoculars.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/binoculars.riv",
+    "bytes": 24420
+  },
+  {
+    "source": "https://mindmarket.com/rive/climber.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/climber.riv",
+    "bytes": 23797
+  },
+  {
+    "source": "https://mindmarket.com/rive/composer.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/composer.riv",
+    "bytes": 16966
+  },
+  {
+    "source": "https://mindmarket.com/rive/gamer.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/gamer.riv",
+    "bytes": 23774
+  },
+  {
+    "source": "https://mindmarket.com/rive/hero_animation.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/hero_animation.riv",
+    "bytes": 45423
+  },
+  {
+    "source": "https://mindmarket.com/rive/pop_up_girl.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/pop_up_girl.riv",
+    "bytes": 15230
+  },
+  {
+    "source": "https://mindmarket.com/rive/scientist.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/scientist.riv",
+    "bytes": 23161
+  },
+  {
+    "source": "https://mindmarket.com/rive/shrug.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/shrug.riv",
+    "bytes": 21892
+  },
+  {
+    "source": "https://mindmarket.com/rive/soccer.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/soccer.riv",
+    "bytes": 35284
+  },
+  {
+    "source": "https://mindmarket.com/rive/trumpeter_1.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/trumpeter_1.riv",
+    "bytes": 16881
+  },
+  {
+    "source": "https://mindmarket.com/rive/trumpeter_2.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/trumpeter_2.riv",
+    "bytes": 12229
+  },
+  {
+    "source": "https://mindmarket.com/rive/unicycle.riv",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/rive/unicycle.riv",
+    "bytes": 28622
+  },
+  {
+    "source": "https://mindmarket.com/timeline/clock-shape.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/clock-shape.svg",
+    "bytes": 1345
+  },
+  {
+    "source": "https://mindmarket.com/timeline/clock.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/clock.svg",
+    "bytes": 2603
+  },
+  {
+    "source": "https://mindmarket.com/timeline/composer-shape-2.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/composer-shape-2.svg",
+    "bytes": 500
+  },
+  {
+    "source": "https://mindmarket.com/timeline/composer-shape.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/composer-shape.svg",
+    "bytes": 1329
+  },
+  {
+    "source": "https://mindmarket.com/timeline/folder-shape.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/folder-shape.svg",
+    "bytes": 1308
+  },
+  {
+    "source": "https://mindmarket.com/timeline/folder.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/folder.svg",
+    "bytes": 2772
+  },
+  {
+    "source": "https://mindmarket.com/timeline/gamer-shape.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/gamer-shape.svg",
+    "bytes": 1027
+  },
+  {
+    "source": "https://mindmarket.com/timeline/hero-background-illustration.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/hero-background-illustration.svg",
+    "bytes": 4042
+  },
+  {
+    "source": "https://mindmarket.com/timeline/joystick-shape.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/joystick-shape.svg",
+    "bytes": 704
+  },
+  {
+    "source": "https://mindmarket.com/timeline/joystick.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/joystick.svg",
+    "bytes": 6509
+  },
+  {
+    "source": "https://mindmarket.com/timeline/music-note-1.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/music-note-1.svg",
+    "bytes": 4408
+  },
+  {
+    "source": "https://mindmarket.com/timeline/music-note-2.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/music-note-2.svg",
+    "bytes": 2134
+  },
+  {
+    "source": "https://mindmarket.com/timeline/music-note-3.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/music-note-3.svg",
+    "bytes": 2144
+  },
+  {
+    "source": "https://mindmarket.com/timeline/plane-1.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/plane-1.svg",
+    "bytes": 2134
+  },
+  {
+    "source": "https://mindmarket.com/timeline/plane-2.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/plane-2.svg",
+    "bytes": 1978
+  },
+  {
+    "source": "https://mindmarket.com/timeline/plane-trace.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/plane-trace.svg",
+    "bytes": 1815
+  },
+  {
+    "source": "https://mindmarket.com/timeline/sheet.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/sheet.svg",
+    "bytes": 1638
+  },
+  {
+    "source": "https://mindmarket.com/timeline/soccer-circle-2.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/soccer-circle-2.svg",
+    "bytes": 225
+  },
+  {
+    "source": "https://mindmarket.com/timeline/soccer-circle.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/soccer-circle.svg",
+    "bytes": 794
+  },
+  {
+    "source": "https://mindmarket.com/timeline/soccer-shape-1.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/soccer-shape-1.svg",
+    "bytes": 720
+  },
+  {
+    "source": "https://mindmarket.com/timeline/soccer-shape-2.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/soccer-shape-2.svg",
+    "bytes": 807
+  },
+  {
+    "source": "https://mindmarket.com/timeline/soccer-shape-3.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/soccer-shape-3.svg",
+    "bytes": 820
+  },
+  {
+    "source": "https://mindmarket.com/timeline/soccer-shape-4.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/soccer-shape-4.svg",
+    "bytes": 812
+  },
+  {
+    "source": "https://mindmarket.com/timeline/soccer-trace.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/soccer-trace.svg",
+    "bytes": 413
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline-end-green-back.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline-end-green-back.svg",
+    "bytes": 1038
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline-end-green-front.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline-end-green-front.svg",
+    "bytes": 16169
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline-end-green-middle.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline-end-green-middle.svg",
+    "bytes": 2575
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline_end_cloud_1.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline_end_cloud_1.svg",
+    "bytes": 837
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline_end_cloud_2.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline_end_cloud_2.svg",
+    "bytes": 811
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline_end_cloud_3.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline_end_cloud_3.svg",
+    "bytes": 818
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline_end_cloud_4.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline_end_cloud_4.svg",
+    "bytes": 851
+  },
+  {
+    "source": "https://mindmarket.com/timeline/timeline_end_cloud_5.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/timeline_end_cloud_5.svg",
+    "bytes": 678
+  },
+  {
+    "source": "https://mindmarket.com/timeline/trumper-shape.svg",
+    "local": "public/sites/mindmarket-f3496669/root-8a5edab2/timeline/trumper-shape.svg",
+    "bytes": 803
+  }
+]

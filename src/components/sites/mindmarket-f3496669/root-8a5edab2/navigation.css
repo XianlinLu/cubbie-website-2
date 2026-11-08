@@ -1,0 +1,206 @@
+.nav-header {
+  position: fixed;
+  top: 17px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  display: flex;
+  align-items: stretch;
+  gap: 20px;
+  width: 84.8%;
+  max-width: 1400px;
+  height: 68px;
+}
+.nav-island {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  flex: 1;
+  min-width: 0;
+  padding: 10px 16px 10px 0;
+  background: #fff;
+  border-radius: 10px;
+}
+.nav-brand {
+  display: flex;
+  align-items: center;
+  flex: 0 0 230px;
+  height: 48px;
+  border-radius: 5px;
+}
+.nav-brand img {
+  display: block;
+  width: 230px;
+  height: 43px;
+  max-width: none;
+  object-fit: contain;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 2px;
+  height: 100%;
+}
+.nav-group {
+  position: relative;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.nav-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  white-space: nowrap;
+  padding: 12px 13px;
+  background: transparent;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  transition: background 0.4s var(--ease);
+}
+.nav-trigger:hover,
+.nav-trigger[aria-expanded="true"] {
+  background: var(--cream);
+}
+.nav-chevron {
+  width: 12px;
+  height: 12px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  transition: transform 0.3s var(--ease);
+}
+.nav-trigger[aria-expanded="true"] .nav-chevron {
+  transform: rotate(180deg);
+}
+.nav-cta {
+  flex: 0 0 auto;
+}
+.nav-cta .action-link {
+  height: 68px;
+  min-height: 68px;
+  white-space: nowrap;
+  gap: 20px;
+  padding-left: 22px;
+  padding-right: 12px;
+}
+.nav-dropdown {
+  position: absolute;
+  top: calc(100% + 22px);
+  left: 0;
+  width: 320px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px #2c2e2a0d;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transform: translateY(-8px);
+  transition:
+    opacity 0.25s var(--ease),
+    transform 0.4s var(--ease),
+    visibility 0.25s;
+}
+.nav-group:nth-last-child(-n + 2) .nav-dropdown {
+  left: auto;
+  right: 0;
+}
+.nav-dropdown:before {
+  content: "";
+  position: absolute;
+  top: -24px;
+  left: 0;
+  right: 0;
+  height: 24px;
+}
+.nav-dropdown[data-open="true"] {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+.nav-dropdown ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-dropdown a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 18px;
+  line-height: 1.35;
+  letter-spacing: -0.03em;
+  transition: background 0.25s var(--ease);
+}
+.nav-dropdown a:hover,
+.nav-dropdown a:focus-visible {
+  background: var(--cream);
+}
+.nav-link-arrow {
+  flex: 0 0 auto;
+  opacity: 0;
+  transform: translate(-3px, 3px);
+  transition:
+    opacity 0.25s,
+    transform 0.25s;
+}
+.nav-dropdown a:hover .nav-link-arrow,
+.nav-dropdown a:focus-visible .nav-link-arrow {
+  opacity: 1;
+  transform: none;
+}
+
+/* Original ButtonQuote geometry; the icon is the original interactive Rive. */
+.quote-button {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 8.5px;
+  height: 68px;
+  padding: 10.625px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  color: var(--ink);
+  font-size: 18.0625px;
+  font-weight: 500;
+  letter-spacing: normal;
+  white-space: nowrap;
+}
+.quote-button::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #fff;
+  border-radius: 10px;
+  transition: transform 0.4s cubic-bezier(0.17, 0.67, 0.3, 1.33);
+}
+.quote-label {
+  position: relative;
+  z-index: 1;
+  padding: 0 10.625px;
+  transition: transform 0.4s cubic-bezier(0.17, 0.67, 0.3, 1.33);
+}
+.quote-icon {
+  position: relative;
+  z-index: 1;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  border-radius: 50%;
+  pointer-events: none;
+}
+.quote-icon canvas {
+  width: 100%;
+  height: 100%;
+}

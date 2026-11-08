@@ -1,0 +1,1838 @@
+{
+  "sourceUrl": "https://cubbie.ai/",
+  "extractedAt": "2026-11-08",
+  "textNodes": [
+    {
+      "text": "Menu",
+      "tag": "button",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": false
+    },
+    {
+      "text": "Features",
+      "tag": "button",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": false
+    },
+    {
+      "text": "All Features",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Coursework Help",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Assignment Drafting",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Student Productivity Agent",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Professor Reviews",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Integrations",
+      "tag": "button",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": false
+    },
+    {
+      "text": "All Integrations",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Canvas",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Use Cases",
+      "tag": "button",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": false
+    },
+    {
+      "text": "All Use Cases",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Never Miss a Canvas Deadline",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Course Planning",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Resources",
+      "tag": "button",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": false
+    },
+    {
+      "text": "Study Guides",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": true
+    },
+    {
+      "text": "Get Started",
+      "tag": "a",
+      "section": "cubbie-header cubbie-header--account",
+      "hiddenState": false
+    },
+    {
+      "text": "Your schoolwork, connected",
+      "tag": "p",
+      "section": "cubbie-mkt-hero",
+      "hiddenState": false
+    },
+    {
+      "text": "Student Planner Powered by",
+      "tag": "span",
+      "section": "cubbie-mkt-hero",
+      "hiddenState": false
+    },
+    {
+      "text": "Your AI School Assistant",
+      "tag": "span",
+      "section": "cubbie-mkt-hero",
+      "hiddenState": false
+    },
+    {
+      "text": "Bring assignments, course materials, school email, your calendar and reminders into one conversation. Cubbie helps you find what matters, see what comes next and stay in charge of your work.",
+      "tag": "p",
+      "section": "cubbie-mkt-hero",
+      "hiddenState": false
+    },
+    {
+      "text": "Get started",
+      "tag": "a",
+      "section": "cubbie-mkt-hero",
+      "hiddenState": false
+    },
+    {
+      "text": "See how it works",
+      "tag": "a",
+      "section": "cubbie-mkt-hero",
+      "hiddenState": false
+    },
+    {
+      "text": "Connect only the accounts you choose. Cubbie asks before it sends an email.",
+      "tag": "p",
+      "section": "cubbie-mkt-hero",
+      "hiddenState": false
+    },
+    {
+      "text": "Schoolwork shouldn’t live in five different places",
+      "tag": "h2",
+      "section": "problem",
+      "hiddenState": false
+    },
+    {
+      "text": "An assignment is posted in Canvas. A professor moves the due date in an announcement. A group update arrives by email. Your study plan sits in another calendar. By the time you’ve pieced it together, the actual work hasn’t started.",
+      "tag": "p",
+      "section": "problem",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie cuts down that switching. It brings the school accounts you connect into one student planner you text, so you can see the task, understand it and decide what to do next.",
+      "tag": "p",
+      "section": "problem",
+      "hiddenState": false
+    },
+    {
+      "text": "One student planner for the whole school week",
+      "tag": "h2",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "See upcoming work",
+      "tag": "h3",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Assignments, due dates and announcements from every Canvas course in one list, with reminders before work is due.",
+      "tag": "p",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Never miss a deadline",
+      "tag": "a",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Understand the assignment",
+      "tag": "h3",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Ask about course material and turn a large task into smaller steps you can change.",
+      "tag": "p",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Coursework help",
+      "tag": "a",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Find the missing context",
+      "tag": "h3",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Search Gmail, Drive and your Canvas files for the details attached to a course or assignment.",
+      "tag": "p",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "All integrations",
+      "tag": "a",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Plan what happens next",
+      "tag": "h3",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Build a study plan, set reminders and add study time to Google Calendar.",
+      "tag": "p",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "All features",
+      "tag": "a",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie helps you organize, understand and prepare your work. You check the information, follow your course rules and submit your own work.",
+      "tag": "p",
+      "section": "overview",
+      "hiddenState": false
+    },
+    {
+      "text": "Turn Canvas into a clearer plan",
+      "tag": "h2",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Connect Canvas and Cubbie syncs your courses, assignments and quizzes, grades, announcements and course files. Check what’s due without opening every course one by one.",
+      "tag": "p",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Explore the Canvas integration",
+      "tag": "a",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Text Cubbie",
+      "tag": "p",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "What’s due this week?",
+      "tag": "li",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Which assignment should I start first?",
+      "tag": "li",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Did any due dates change?",
+      "tag": "li",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Where are the instructions for the lab report?",
+      "tag": "li",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Am I missing anything?",
+      "tag": "li",
+      "section": "canvas",
+      "hiddenState": false
+    },
+    {
+      "text": "Get unstuck without giving up control of the work",
+      "tag": "h2",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie explains course material, clarifies an assignment prompt, suggests a task breakdown you can edit and helps you plan your research. It doesn’t replace you. It makes the next step easier to see.",
+      "tag": "p",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Explore coursework help",
+      "tag": "a",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Point Cubbie at the material",
+      "tag": "h3",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Name the course and assignment, or text Cubbie the file.",
+      "tag": "p",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Ask what the assignment requires",
+      "tag": "h3",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie reads the instructions and cites the file it used.",
+      "tag": "p",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Review the explanation or plan",
+      "tag": "h3",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Check it against the source.",
+      "tag": "p",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Fit it to your professor’s instructions",
+      "tag": "h3",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Change the steps and dates until they work for you.",
+      "tag": "p",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Do the work and submit it yourself",
+      "tag": "h3",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie never clicks Submit in Canvas.",
+      "tag": "p",
+      "section": "coursework",
+      "hiddenState": false
+    },
+    {
+      "text": "Keep school admin from taking over your day",
+      "tag": "h2",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Coursework isn’t only in Canvas. Important dates and requests also arrive by email, in shared documents and on your calendar. Connect Google and Cubbie can help you:",
+      "tag": "p",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Find a course email",
+      "tag": "h3",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Search Gmail for the message about the lab, the TA’s office hours or registration.",
+      "tag": "p",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Summarize a long thread",
+      "tag": "h3",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Get the short version and the dates mentioned in it.",
+      "tag": "p",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Add it to your calendar",
+      "tag": "h3",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Put an exam, a due date or a study session on Google Calendar.",
+      "tag": "p",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Set a reminder",
+      "tag": "h3",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "Ask for a text at the time you choose, once or on a schedule.",
+      "tag": "p",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "See every integration",
+      "tag": "a",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "email-calendar",
+      "hiddenState": false
+    },
+    {
+      "text": "From scattered updates to a workable week",
+      "tag": "h2",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Monday",
+      "tag": "button",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Tuesday",
+      "tag": "button",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Wednesday",
+      "tag": "button",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Thursday",
+      "tag": "button",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Friday",
+      "tag": "button",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "1",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "/",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "5",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Monday",
+      "tag": "h3",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Check upcoming assignments and anything that changed.",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "2",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "/",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "5",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Tuesday",
+      "tag": "h3",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Break a large assignment into milestones.",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "3",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "/",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "5",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Wednesday",
+      "tag": "h3",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Find your professor’s latest email and the course file it mentions.",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "4",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "/",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "5",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Thursday",
+      "tag": "h3",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Look at what’s left and adjust the plan.",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "5",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "/",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "5",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Friday",
+      "tag": "h3",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Check what’s done, missing and coming up before the weekend.",
+      "tag": "p",
+      "section": "week",
+      "hiddenState": true
+    },
+    {
+      "text": "Explore use cases",
+      "tag": "a",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "→",
+      "tag": "span",
+      "section": "week",
+      "hiddenState": false
+    },
+    {
+      "text": "Connect. Ask. Review. Act.",
+      "tag": "h2",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Connect the tools you choose",
+      "tag": "h3",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Connect Canvas, Google or both, and review the access each one asks for.",
+      "tag": "p",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Ask in plain language",
+      "tag": "h3",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Text Cubbie about assignments, course materials, email or the week ahead.",
+      "tag": "p",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Review the source and the suggestion",
+      "tag": "h3",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Check dates, files, instructions and anything Cubbie writes.",
+      "tag": "p",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Confirm what matters",
+      "tag": "h3",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie asks before it sends an email, and you submit your own work.",
+      "tag": "p",
+      "section": "how-it-works",
+      "hiddenState": false
+    },
+    {
+      "text": "Your accounts stay under your control",
+      "tag": "h2",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "Connect what you choose",
+      "tag": "h3",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "Canvas and Google are separate connections. Review the access each one asks for, and disconnect any time.",
+      "tag": "p",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "Asks before acting",
+      "tag": "h3",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie shows you an email before it goes out and checks with you before deleting or sharing files.",
+      "tag": "p",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "Your Google data",
+      "tag": "h3",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie follows Google’s Limited Use requirements and doesn’t use your Google data for ads or to train AI models.",
+      "tag": "p",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "AI can be wrong, and synced data can be out of date. Check important dates, grades and instructions against Canvas and your course materials.",
+      "tag": "p",
+      "section": "control",
+      "hiddenState": false
+    },
+    {
+      "text": "Questions students ask",
+      "tag": "h2",
+      "section": "faq",
+      "hiddenState": false
+    },
+    {
+      "text": "What is Cubbie?",
+      "tag": "summary",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Cubbie is an AI school assistant and student planner you text. It connects to Canvas and Google to keep track of assignments, email and your calendar, and helps you work through coursework.",
+      "tag": "p",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Is Cubbie a homework answer generator?",
+      "tag": "summary",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "No. Cubbie explains course material and helps you plan and review your work. You check what it writes, follow your instructor’s rules about AI and submit your own work.",
+      "tag": "p",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Does Cubbie work with Canvas?",
+      "tag": "summary",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Yes. Connect Canvas with the Cubbie Chrome extension, or at supported schools through a one-time secure sign-in link. Cubbie syncs your courses, assignments, grades, announcements and files.",
+      "tag": "p",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Can Cubbie send email or change my calendar on its own?",
+      "tag": "summary",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Cubbie acts when you ask. It shows you an email and asks before sending it, and checks with you before changing an event other people are invited to.",
+      "tag": "p",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Does Cubbie work on Android?",
+      "tag": "summary",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Yes. iPhones reach Cubbie over iMessage and Android phones over RCS, using the same number.",
+      "tag": "p",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Is Cubbie always accurate?",
+      "tag": "summary",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "No. AI output and synced data can be incomplete, out of date or wrong. Check important dates, grades, instructions and course content against the original source.",
+      "tag": "p",
+      "section": "faq",
+      "hiddenState": true
+    },
+    {
+      "text": "Spend less time finding schoolwork and more time doing it",
+      "tag": "h2",
+      "section": "cubbie-mkt-closing cubbie-mkt-reveal",
+      "hiddenState": false
+    },
+    {
+      "text": "Connect the tools you already use and plan the week ahead.",
+      "tag": "p",
+      "section": "cubbie-mkt-closing cubbie-mkt-reveal",
+      "hiddenState": false
+    },
+    {
+      "text": "Get started",
+      "tag": "a",
+      "section": "cubbie-mkt-closing cubbie-mkt-reveal",
+      "hiddenState": false
+    },
+    {
+      "text": "Features",
+      "tag": "p",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "All Features",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Coursework Help",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Assignment Drafting",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Student Productivity Agent",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Professor Reviews",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Integrations",
+      "tag": "p",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "All Integrations",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Canvas",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Use Cases",
+      "tag": "p",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "All Use Cases",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Never Miss a Canvas Deadline",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Course Planning",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Resources",
+      "tag": "p",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Study Guides",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Universities",
+      "tag": "p",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "ASU",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "UCF",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "BYU",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Texas A&M",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Cubbie",
+      "tag": "p",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Home",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Discord",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "a",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    },
+    {
+      "text": "Canvas is a trademark of Instructure, Inc. Gmail and Google Calendar are trademarks of Google LLC. iMessage is a trademark of Apple Inc. Cubbie is not affiliated with or endorsed by these companies.",
+      "tag": "p",
+      "section": "cubbie-mkt-footer",
+      "hiddenState": false
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "All Features",
+      "href": "/features"
+    },
+    {
+      "text": "Coursework Help",
+      "href": "/features/coursework-help"
+    },
+    {
+      "text": "Assignment Drafting",
+      "href": "/features/assignment-drafting"
+    },
+    {
+      "text": "Student Productivity Agent",
+      "href": "/features/student-productivity-agent"
+    },
+    {
+      "text": "Professor Reviews",
+      "href": "/features/professor-reviews"
+    },
+    {
+      "text": "All Integrations",
+      "href": "/integrations"
+    },
+    {
+      "text": "Canvas",
+      "href": "/integrations/canvas"
+    },
+    {
+      "text": "All Use Cases",
+      "href": "/use-cases"
+    },
+    {
+      "text": "Never Miss a Canvas Deadline",
+      "href": "/use-cases/never-miss-a-canvas-deadline"
+    },
+    {
+      "text": "Course Planning",
+      "href": "/use-cases/course-planning"
+    },
+    {
+      "text": "Study Guides",
+      "href": "/blog"
+    },
+    {
+      "text": "Get Started",
+      "href": "/sign-in"
+    },
+    {
+      "text": "Get started",
+      "href": "/sign-in"
+    },
+    {
+      "text": "See how it works",
+      "href": "#how-it-works"
+    },
+    {
+      "text": "Never miss a deadline →",
+      "href": "/use-cases/never-miss-a-canvas-deadline"
+    },
+    {
+      "text": "Coursework help →",
+      "href": "/features/coursework-help"
+    },
+    {
+      "text": "All integrations →",
+      "href": "/integrations"
+    },
+    {
+      "text": "All features →",
+      "href": "/features"
+    },
+    {
+      "text": "Explore the Canvas integration →",
+      "href": "/integrations/canvas"
+    },
+    {
+      "text": "Explore coursework help →",
+      "href": "/features/coursework-help"
+    },
+    {
+      "text": "See every integration →",
+      "href": "/integrations"
+    },
+    {
+      "text": "Explore use cases →",
+      "href": "/use-cases"
+    },
+    {
+      "text": "Get started",
+      "href": "/sign-in"
+    },
+    {
+      "text": "All Features",
+      "href": "/features"
+    },
+    {
+      "text": "Coursework Help",
+      "href": "/features/coursework-help"
+    },
+    {
+      "text": "Assignment Drafting",
+      "href": "/features/assignment-drafting"
+    },
+    {
+      "text": "Student Productivity Agent",
+      "href": "/features/student-productivity-agent"
+    },
+    {
+      "text": "Professor Reviews",
+      "href": "/features/professor-reviews"
+    },
+    {
+      "text": "All Integrations",
+      "href": "/integrations"
+    },
+    {
+      "text": "Canvas",
+      "href": "/integrations/canvas"
+    },
+    {
+      "text": "All Use Cases",
+      "href": "/use-cases"
+    },
+    {
+      "text": "Never Miss a Canvas Deadline",
+      "href": "/use-cases/never-miss-a-canvas-deadline"
+    },
+    {
+      "text": "Course Planning",
+      "href": "/use-cases/course-planning"
+    },
+    {
+      "text": "Study Guides",
+      "href": "/blog"
+    },
+    {
+      "text": "ASU",
+      "href": "/universities/asu"
+    },
+    {
+      "text": "UCF",
+      "href": "/universities/ucf"
+    },
+    {
+      "text": "BYU",
+      "href": "/universities/byu"
+    },
+    {
+      "text": "Texas A&M",
+      "href": "/universities/tamu"
+    },
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Discord",
+      "href": "https://discord.gg/7eJADTbQMT"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "/en-US/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "/en-US/terms"
+    }
+  ],
+  "uniqueLinks": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "All Features",
+      "href": "/features"
+    },
+    {
+      "text": "Coursework Help",
+      "href": "/features/coursework-help"
+    },
+    {
+      "text": "Assignment Drafting",
+      "href": "/features/assignment-drafting"
+    },
+    {
+      "text": "Student Productivity Agent",
+      "href": "/features/student-productivity-agent"
+    },
+    {
+      "text": "Professor Reviews",
+      "href": "/features/professor-reviews"
+    },
+    {
+      "text": "All Integrations",
+      "href": "/integrations"
+    },
+    {
+      "text": "Canvas",
+      "href": "/integrations/canvas"
+    },
+    {
+      "text": "All Use Cases",
+      "href": "/use-cases"
+    },
+    {
+      "text": "Never Miss a Canvas Deadline",
+      "href": "/use-cases/never-miss-a-canvas-deadline"
+    },
+    {
+      "text": "Course Planning",
+      "href": "/use-cases/course-planning"
+    },
+    {
+      "text": "Study Guides",
+      "href": "/blog"
+    },
+    {
+      "text": "Get Started",
+      "href": "/sign-in"
+    },
+    {
+      "text": "Get started",
+      "href": "/sign-in"
+    },
+    {
+      "text": "See how it works",
+      "href": "#how-it-works"
+    },
+    {
+      "text": "Never miss a deadline →",
+      "href": "/use-cases/never-miss-a-canvas-deadline"
+    },
+    {
+      "text": "Coursework help →",
+      "href": "/features/coursework-help"
+    },
+    {
+      "text": "All integrations →",
+      "href": "/integrations"
+    },
+    {
+      "text": "All features →",
+      "href": "/features"
+    },
+    {
+      "text": "Explore the Canvas integration →",
+      "href": "/integrations/canvas"
+    },
+    {
+      "text": "Explore coursework help →",
+      "href": "/features/coursework-help"
+    },
+    {
+      "text": "See every integration →",
+      "href": "/integrations"
+    },
+    {
+      "text": "Explore use cases →",
+      "href": "/use-cases"
+    },
+    {
+      "text": "ASU",
+      "href": "/universities/asu"
+    },
+    {
+      "text": "UCF",
+      "href": "/universities/ucf"
+    },
+    {
+      "text": "BYU",
+      "href": "/universities/byu"
+    },
+    {
+      "text": "Texas A&M",
+      "href": "/universities/tamu"
+    },
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Discord",
+      "href": "https://discord.gg/7eJADTbQMT"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "/en-US/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "/en-US/terms"
+    }
+  ],
+  "structure": [
+    {
+      "key": "metadata",
+      "title": "Student Planner & AI School Assistant | Cubbie"
+    },
+    {
+      "key": "navigation",
+      "title": ""
+    },
+    {
+      "key": "hero",
+      "title": "Student Planner Powered by Your AI School Assistant"
+    },
+    {
+      "key": "problem",
+      "title": "Schoolwork shouldn’t live in five different places"
+    },
+    {
+      "key": "overview",
+      "title": "One student planner for the whole school week"
+    },
+    {
+      "key": "canvas",
+      "title": "Turn Canvas into a clearer plan"
+    },
+    {
+      "key": "coursework",
+      "title": "Get unstuck without giving up control of the work"
+    },
+    {
+      "key": "emailCalendar",
+      "title": "Keep school admin from taking over your day"
+    },
+    {
+      "key": "week",
+      "title": "From scattered updates to a workable week"
+    },
+    {
+      "key": "howItWorks",
+      "title": "Connect. Ask. Review. Act."
+    },
+    {
+      "key": "control",
+      "title": "Your accounts stay under your control"
+    },
+    {
+      "key": "faq",
+      "title": "Questions students ask"
+    },
+    {
+      "key": "closing",
+      "title": "Spend less time finding schoolwork and more time doing it"
+    },
+    {
+      "key": "footer",
+      "title": ""
+    }
+  ],
+  "content": {
+    "sourceUrl": "https://cubbie.ai/",
+    "metadata": {
+      "title": "Student Planner & AI School Assistant | Cubbie",
+      "description": "Plan schoolwork with Cubbie, a digital student planner you text. It brings Canvas assignments, course materials, Gmail and Google Calendar into one conversation."
+    },
+    "navigation": {
+      "menuLabel": "Menu",
+      "groups": [
+        {
+          "title": "Features",
+          "links": [
+            {
+              "text": "All Features",
+              "href": "/features"
+            },
+            {
+              "text": "Coursework Help",
+              "href": "/features/coursework-help"
+            },
+            {
+              "text": "Assignment Drafting",
+              "href": "/features/assignment-drafting"
+            },
+            {
+              "text": "Student Productivity Agent",
+              "href": "/features/student-productivity-agent"
+            },
+            {
+              "text": "Professor Reviews",
+              "href": "/features/professor-reviews"
+            }
+          ]
+        },
+        {
+          "title": "Integrations",
+          "links": [
+            {
+              "text": "All Integrations",
+              "href": "/integrations"
+            },
+            {
+              "text": "Canvas",
+              "href": "/integrations/canvas"
+            }
+          ]
+        },
+        {
+          "title": "Use Cases",
+          "links": [
+            {
+              "text": "All Use Cases",
+              "href": "/use-cases"
+            },
+            {
+              "text": "Never Miss a Canvas Deadline",
+              "href": "/use-cases/never-miss-a-canvas-deadline"
+            },
+            {
+              "text": "Course Planning",
+              "href": "/use-cases/course-planning"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "links": [
+            {
+              "text": "Study Guides",
+              "href": "/blog"
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "text": "Get Started",
+        "href": "/sign-in"
+      }
+    },
+    "hero": {
+      "eyebrow": "Your schoolwork, connected",
+      "title": "Student Planner Powered by Your AI School Assistant",
+      "titleLead": "Student Planner Powered by",
+      "titleEmphasis": "Your AI School Assistant",
+      "body": "Bring assignments, course materials, school email, your calendar and reminders into one conversation. Cubbie helps you find what matters, see what comes next and stay in charge of your work.",
+      "links": [
+        {
+          "text": "Get started",
+          "href": "/sign-in"
+        },
+        {
+          "text": "See how it works",
+          "href": "#how-it-works"
+        }
+      ],
+      "support": "Connect only the accounts you choose. Cubbie asks before it sends an email."
+    },
+    "problem": {
+      "title": "Schoolwork shouldn’t live in five different places",
+      "paragraphs": [
+        "An assignment is posted in Canvas. A professor moves the due date in an announcement. A group update arrives by email. Your study plan sits in another calendar. By the time you’ve pieced it together, the actual work hasn’t started.",
+        "Cubbie cuts down that switching. It brings the school accounts you connect into one student planner you text, so you can see the task, understand it and decide what to do next."
+      ]
+    },
+    "overview": {
+      "title": "One student planner for the whole school week",
+      "items": [
+        {
+          "title": "See upcoming work",
+          "body": "Assignments, due dates and announcements from every Canvas course in one list, with reminders before work is due.",
+          "link": {
+            "text": "Never miss a deadline →",
+            "href": "/use-cases/never-miss-a-canvas-deadline"
+          }
+        },
+        {
+          "title": "Understand the assignment",
+          "body": "Ask about course material and turn a large task into smaller steps you can change.",
+          "link": {
+            "text": "Coursework help →",
+            "href": "/features/coursework-help"
+          }
+        },
+        {
+          "title": "Find the missing context",
+          "body": "Search Gmail, Drive and your Canvas files for the details attached to a course or assignment.",
+          "link": {
+            "text": "All integrations →",
+            "href": "/integrations"
+          }
+        },
+        {
+          "title": "Plan what happens next",
+          "body": "Build a study plan, set reminders and add study time to Google Calendar.",
+          "link": {
+            "text": "All features →",
+            "href": "/features"
+          }
+        }
+      ],
+      "note": "Cubbie helps you organize, understand and prepare your work. You check the information, follow your course rules and submit your own work."
+    },
+    "canvas": {
+      "title": "Turn Canvas into a clearer plan",
+      "body": "Connect Canvas and Cubbie syncs your courses, assignments and quizzes, grades, announcements and course files. Check what’s due without opening every course one by one.",
+      "link": {
+        "text": "Explore the Canvas integration →",
+        "href": "/integrations/canvas"
+      },
+      "promptLabel": "Text Cubbie",
+      "prompts": [
+        "What’s due this week?",
+        "Which assignment should I start first?",
+        "Did any due dates change?",
+        "Where are the instructions for the lab report?",
+        "Am I missing anything?"
+      ]
+    },
+    "coursework": {
+      "title": "Get unstuck without giving up control of the work",
+      "body": "Cubbie explains course material, clarifies an assignment prompt, suggests a task breakdown you can edit and helps you plan your research. It doesn’t replace you. It makes the next step easier to see.",
+      "link": {
+        "text": "Explore coursework help →",
+        "href": "/features/coursework-help"
+      },
+      "steps": [
+        {
+          "title": "Point Cubbie at the material",
+          "body": "Name the course and assignment, or text Cubbie the file."
+        },
+        {
+          "title": "Ask what the assignment requires",
+          "body": "Cubbie reads the instructions and cites the file it used."
+        },
+        {
+          "title": "Review the explanation or plan",
+          "body": "Check it against the source."
+        },
+        {
+          "title": "Fit it to your professor’s instructions",
+          "body": "Change the steps and dates until they work for you."
+        },
+        {
+          "title": "Do the work and submit it yourself",
+          "body": "Cubbie never clicks Submit in Canvas."
+        }
+      ]
+    },
+    "emailCalendar": {
+      "title": "Keep school admin from taking over your day",
+      "body": "Coursework isn’t only in Canvas. Important dates and requests also arrive by email, in shared documents and on your calendar. Connect Google and Cubbie can help you:",
+      "items": [
+        {
+          "title": "Find a course email",
+          "body": "Search Gmail for the message about the lab, the TA’s office hours or registration."
+        },
+        {
+          "title": "Summarize a long thread",
+          "body": "Get the short version and the dates mentioned in it."
+        },
+        {
+          "title": "Add it to your calendar",
+          "body": "Put an exam, a due date or a study session on Google Calendar."
+        },
+        {
+          "title": "Set a reminder",
+          "body": "Ask for a text at the time you choose, once or on a schedule."
+        }
+      ],
+      "link": {
+        "text": "See every integration →",
+        "href": "/integrations"
+      }
+    },
+    "week": {
+      "title": "From scattered updates to a workable week",
+      "days": [
+        {
+          "title": "Monday",
+          "count": "1 / 5",
+          "body": "Check upcoming assignments and anything that changed."
+        },
+        {
+          "title": "Tuesday",
+          "count": "2 / 5",
+          "body": "Break a large assignment into milestones."
+        },
+        {
+          "title": "Wednesday",
+          "count": "3 / 5",
+          "body": "Find your professor’s latest email and the course file it mentions."
+        },
+        {
+          "title": "Thursday",
+          "count": "4 / 5",
+          "body": "Look at what’s left and adjust the plan."
+        },
+        {
+          "title": "Friday",
+          "count": "5 / 5",
+          "body": "Check what’s done, missing and coming up before the weekend."
+        }
+      ],
+      "link": {
+        "text": "Explore use cases →",
+        "href": "/use-cases"
+      }
+    },
+    "howItWorks": {
+      "title": "Connect. Ask. Review. Act.",
+      "steps": [
+        {
+          "title": "Connect the tools you choose",
+          "body": "Connect Canvas, Google or both, and review the access each one asks for."
+        },
+        {
+          "title": "Ask in plain language",
+          "body": "Text Cubbie about assignments, course materials, email or the week ahead."
+        },
+        {
+          "title": "Review the source and the suggestion",
+          "body": "Check dates, files, instructions and anything Cubbie writes."
+        },
+        {
+          "title": "Confirm what matters",
+          "body": "Cubbie asks before it sends an email, and you submit your own work."
+        }
+      ]
+    },
+    "control": {
+      "title": "Your accounts stay under your control",
+      "items": [
+        {
+          "title": "Connect what you choose",
+          "body": "Canvas and Google are separate connections. Review the access each one asks for, and disconnect any time."
+        },
+        {
+          "title": "Asks before acting",
+          "body": "Cubbie shows you an email before it goes out and checks with you before deleting or sharing files."
+        },
+        {
+          "title": "Your Google data",
+          "body": "Cubbie follows Google’s Limited Use requirements and doesn’t use your Google data for ads or to train AI models."
+        }
+      ],
+      "note": "AI can be wrong, and synced data can be out of date. Check important dates, grades and instructions against Canvas and your course materials."
+    },
+    "faq": {
+      "title": "Questions students ask",
+      "items": [
+        {
+          "question": "What is Cubbie?",
+          "answer": "Cubbie is an AI school assistant and student planner you text. It connects to Canvas and Google to keep track of assignments, email and your calendar, and helps you work through coursework."
+        },
+        {
+          "question": "Is Cubbie a homework answer generator?",
+          "answer": "No. Cubbie explains course material and helps you plan and review your work. You check what it writes, follow your instructor’s rules about AI and submit your own work."
+        },
+        {
+          "question": "Does Cubbie work with Canvas?",
+          "answer": "Yes. Connect Canvas with the Cubbie Chrome extension, or at supported schools through a one-time secure sign-in link. Cubbie syncs your courses, assignments, grades, announcements and files."
+        },
+        {
+          "question": "Can Cubbie send email or change my calendar on its own?",
+          "answer": "Cubbie acts when you ask. It shows you an email and asks before sending it, and checks with you before changing an event other people are invited to."
+        },
+        {
+          "question": "Does Cubbie work on Android?",
+          "answer": "Yes. iPhones reach Cubbie over iMessage and Android phones over RCS, using the same number."
+        },
+        {
+          "question": "Is Cubbie always accurate?",
+          "answer": "No. AI output and synced data can be incomplete, out of date or wrong. Check important dates, grades, instructions and course content against the original source."
+        }
+      ]
+    },
+    "closing": {
+      "title": "Spend less time finding schoolwork and more time doing it",
+      "body": "Connect the tools you already use and plan the week ahead.",
+      "link": {
+        "text": "Get started",
+        "href": "/sign-in"
+      }
+    },
+    "footer": {
+      "groups": [
+        {
+          "title": "Features",
+          "links": [
+            {
+              "text": "All Features",
+              "href": "/features"
+            },
+            {
+              "text": "Coursework Help",
+              "href": "/features/coursework-help"
+            },
+            {
+              "text": "Assignment Drafting",
+              "href": "/features/assignment-drafting"
+            },
+            {
+              "text": "Student Productivity Agent",
+              "href": "/features/student-productivity-agent"
+            },
+            {
+              "text": "Professor Reviews",
+              "href": "/features/professor-reviews"
+            }
+          ]
+        },
+        {
+          "title": "Integrations",
+          "links": [
+            {
+              "text": "All Integrations",
+              "href": "/integrations"
+            },
+            {
+              "text": "Canvas",
+              "href": "/integrations/canvas"
+            }
+          ]
+        },
+        {
+          "title": "Use Cases",
+          "links": [
+            {
+              "text": "All Use Cases",
+              "href": "/use-cases"
+            },
+            {
+              "text": "Never Miss a Canvas Deadline",
+              "href": "/use-cases/never-miss-a-canvas-deadline"
+            },
+            {
+              "text": "Course Planning",
+              "href": "/use-cases/course-planning"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "links": [
+            {
+              "text": "Study Guides",
+              "href": "/blog"
+            }
+          ]
+        },
+        {
+          "title": "Universities",
+          "links": [
+            {
+              "text": "ASU",
+              "href": "/universities/asu"
+            },
+            {
+              "text": "UCF",
+              "href": "/universities/ucf"
+            },
+            {
+              "text": "BYU",
+              "href": "/universities/byu"
+            },
+            {
+              "text": "Texas A&M",
+              "href": "/universities/tamu"
+            }
+          ]
+        },
+        {
+          "title": "Cubbie",
+          "links": [
+            {
+              "text": "Home",
+              "href": "/"
+            },
+            {
+              "text": "Discord",
+              "href": "https://discord.gg/7eJADTbQMT"
+            },
+            {
+              "text": "Privacy Policy",
+              "href": "/en-US/privacy"
+            },
+            {
+              "text": "Terms of Service",
+              "href": "/en-US/terms"
+            }
+          ]
+        }
+      ],
+      "trademarks": "Canvas is a trademark of Instructure, Inc. Gmail and Google Calendar are trademarks of Google LLC. iMessage is a trademark of Apple Inc. Cubbie is not affiliated with or endorsed by these companies."
+    }
+  }
+}

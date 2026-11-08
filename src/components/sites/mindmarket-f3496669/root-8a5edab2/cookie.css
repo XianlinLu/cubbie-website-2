@@ -1,0 +1,107 @@
+.cookie-banner {
+  position: fixed;
+  bottom: 20px;
+  right: 25px;
+  width: 408px;
+  z-index: 120;
+  background: var(--cream);
+  border-radius: 10px;
+  box-shadow: 0 8px 35px #0003;
+  font-family: Arial, sans-serif;
+  color: #42443f;
+  overflow: hidden;
+}
+.cookie-banner h2 {
+  font-family: Arial, sans-serif;
+  letter-spacing: 0;
+  font-size: 17px;
+  line-height: 1.2;
+  font-weight: 700;
+  margin: 20px 50px 16px 22px;
+}
+.cookie-banner p {
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: 400;
+  margin: 0 22px 30px;
+}
+.cookie-close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 42px;
+  height: 42px;
+  font-size: 28px;
+  font-weight: 400;
+  background: var(--sand);
+  border-radius: 0 0 0 8px;
+}
+.cookie-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  padding: 0 22px 18px;
+}
+.cookie-actions button {
+  font-size: 13px;
+  font-weight: 700;
+  background: var(--sand);
+  padding: 14px 10px;
+  border-radius: 7px;
+}
+.cookie-actions button:first-child {
+  background: var(--ink);
+  color: white;
+}
+.cookie-actions .cookie-settings {
+  grid-column: span 2;
+}
+.cookie-banner > a {
+  display: block;
+  background: var(--sand);
+  padding: 10px 22px;
+  font-size: 12px;
+  text-decoration: underline;
+}
+.cookie-dialog {
+  width: 560px;
+  max-width: 90vw;
+  padding: 40px;
+  border: 0;
+  border-radius: 20px;
+  background: var(--cream);
+  color: var(--ink);
+}
+.cookie-dialog::backdrop {
+  background: #2c2e2a66;
+  backdrop-filter: blur(5px);
+}
+.cookie-dialog h2 {
+  font-size: 34px;
+  margin-bottom: 25px;
+}
+.cookie-dialog p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+.cookie-dialog label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 0;
+  border-top: 1px solid var(--sand);
+}
+.cookie-dialog input {
+  width: 22px;
+  height: 22px;
+  accent-color: var(--green);
+}
+.cookie-save {
+  width: 100%;
+  padding: 17px;
+  background: var(--ink);
+  color: white;
+  border-radius: 10px;
+  margin-top: 20px;
+}

@@ -1,0 +1,329 @@
+.decor-0 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  aspect-ratio: 1000/1225;
+  top: 10%;
+  left: -3.2%;
+  width: 43%;
+}
+.decor-1 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  aspect-ratio: 1153/1188;
+  top: 19%;
+  right: 5%;
+  width: 45%;
+}
+.decor-2 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  aspect-ratio: 1000/1151;
+  top: 32%;
+  right: -5%;
+  width: 40%;
+}
+.decor-3 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  aspect-ratio: 808/738;
+  top: 33.4%;
+  left: 14%;
+  width: 29%;
+}
+.decor-4 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  aspect-ratio: 1;
+  top: 35.5%;
+  left: -2%;
+  width: 29%;
+}
+.decor-5 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  aspect-ratio: 1;
+  top: 44.7%;
+  left: 10%;
+  width: 33.5%;
+}
+.decor-6 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  right: 0;
+  aspect-ratio: 1000/1271;
+  top: 53%;
+  width: 34%;
+}
+.decor-7 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  aspect-ratio: 1789/1438;
+  top: 63%;
+  left: -3.5%;
+  width: 56.5%;
+}
+.decor-8 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 5%;
+  left: 13%;
+  width: 10%;
+}
+.decor-9 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 2%;
+  left: 8%;
+  width: 30%;
+}
+.decor-11 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 22%;
+  left: 40%;
+  width: 12%;
+}
+.decor-12 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 15%;
+  left: 19%;
+  width: 25%;
+}
+.decor-13 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 11%;
+  left: 31%;
+  width: 6%;
+}
+.decor-14 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 19%;
+  left: 46%;
+  width: 8%;
+}
+.decor-15 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 9%;
+  left: 22%;
+  width: 23%;
+}
+.decor-16 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 20%;
+  left: 32%;
+  width: 10%;
+}
+.decor-17 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 26%;
+  right: 9%;
+  width: 38%;
+}
+.decor-18 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 26%;
+  right: 9%;
+  width: 38%;
+}
+.decor-19 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 34%;
+  left: 9%;
+  width: 6.5%;
+}
+.decor-20 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 38%;
+  left: 48%;
+  width: 7%;
+}
+.decor-21 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 42%;
+  left: 52%;
+  width: 7.3%;
+}
+.decor-22 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 42%;
+  left: 28%;
+  width: 12%;
+}
+.decor-23 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 47%;
+  left: 4%;
+  width: 10%;
+}
+.decor-24 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 55.5%;
+  left: 40%;
+  width: 7%;
+}
+.decor-25 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 55%;
+  left: 53%;
+  width: 11%;
+}
+.decor-26 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 66%;
+  right: 18%;
+  width: 3%;
+}
+.decor-27 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 60%;
+  right: 33%;
+  width: 1.5%;
+}
+.decor-28 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 64%;
+  right: 44%;
+  width: 8%;
+}
+.decor-29 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 66.5%;
+  right: 41%;
+  width: 7%;
+}
+.decor-30 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 76%;
+  right: 62%;
+  width: 12%;
+}
+.decor-31 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 69%;
+  right: 49%;
+  width: 18%;
+}
+.decor-32 {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  top: 70%;
+  left: 19%;
+  width: 1%;
+}
+
+/* Original layered stacking and scroll-driven transforms. */
+.decoration[data-scroll-speed] {
+  transform: translate3d(0, var(--parallax-y, 0px), 0);
+}
+.decor-0,
+.decor-1,
+.decor-3,
+.decor-5,
+.decor-9,
+.decor-13,
+.decor-15,
+.decor-17,
+.decor-24 {
+  z-index: 3;
+}
+.decor-2 {
+  z-index: 2;
+}
+.decor-4,
+.decor-6,
+.decor-7,
+.decor-8,
+.decor-11,
+.decor-12,
+.decor-14,
+.decor-16,
+.decor-18,
+.decor-20,
+.decor-21,
+.decor-22,
+.decor-23,
+.decor-25,
+.decor-26,
+.decor-27,
+.decor-28,
+.decor-29,
+.decor-30,
+.decor-31,
+.decor-32 {
+  z-index: 1;
+}
+.decor-19 {
+  z-index: auto;
+}
+.decor-13 {
+  transform: translate(
+      calc(-10px + 20px * var(--scroll-progress, 0)),
+      calc(-10px + 70px * var(--scroll-progress, 0))
+    )
+    rotate(calc(-10deg + 20deg * var(--scroll-progress, 0)));
+}
+.decor-14 {
+  transform: translate(
+      calc(-30px + 70px * var(--scroll-progress, 0)),
+      calc(-40px + 80px * var(--scroll-progress, 0))
+    )
+    rotate(calc(10deg - 20deg * var(--scroll-progress, 0)));
+}
+@media (prefers-reduced-motion: reduce) {
+  .decor-13,
+  .decor-14 {
+    transform: none;
+  }
+}

@@ -1,0 +1,360 @@
+.canvas-section {
+  position: relative;
+  isolation: isolate;
+  background: var(--green);
+  border-radius: 0 0 50px 50px;
+  padding: 130px 0 110px;
+  overflow: hidden;
+}
+.canvas-copy {
+  position: relative;
+  text-align: center;
+  z-index: 2;
+  max-width: 900px;
+}
+.canvas-copy h2 {
+  font-size: 106px;
+  line-height: 0.98;
+  letter-spacing: -0.06em;
+}
+.canvas-copy p {
+  max-width: 620px;
+  margin: 45px auto 28px;
+  font-size: 25px;
+  line-height: 1.2;
+}
+.canvas-character {
+  position: absolute;
+  top: 40px;
+  left: -130px;
+  width: 600px;
+  aspect-ratio: 1;
+  z-index: 1;
+}
+.canvas-prompts {
+  margin-top: 110px;
+  position: relative;
+  z-index: 2;
+  text-align: center;
+}
+.canvas-prompts > p {
+  font-size: 17px;
+  margin-bottom: 30px;
+}
+.canvas-prompts ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1100px;
+  margin: auto;
+}
+.canvas-prompts li {
+  padding: 19px 25px;
+  border-radius: 50px;
+  background: var(--cream);
+  font-size: 17px;
+  transition: transform 0.3s;
+}
+.canvas-prompts li:hover {
+  transform: rotate(-2deg) translateY(-4px);
+}
+.coursework-section {
+  display: grid;
+  grid-template-columns: 1fr 440px;
+  gap: 130px;
+  padding-block: 150px;
+  align-items: start;
+}
+.coursework-intro {
+  position: sticky;
+  top: 135px;
+}
+.coursework-intro h2 {
+  font-size: 53px;
+}
+.coursework-intro > p {
+  margin: 35px 0 28px;
+}
+.coursework-character {
+  height: 300px;
+  width: 290px;
+  margin: 40px auto -20px;
+}
+.coursework-steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 40px;
+}
+.step-card {
+  padding: 36px;
+  border-radius: 50px;
+  min-height: 380px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.step-number {
+  font-size: 115px;
+  line-height: 1;
+  letter-spacing: -0.07em;
+  margin-bottom: 50px;
+  font-weight: 400;
+}
+.step-card h3 {
+  font-size: 29px;
+  line-height: 1.08;
+  max-width: 350px;
+  margin-bottom: 18px;
+}
+.step-card p {
+  font-size: 17px;
+  line-height: 1.4;
+  letter-spacing: -0.03em;
+}
+.step-tone-0 {
+  background: white;
+  color: var(--blue);
+}
+.step-tone-1 {
+  background: var(--green);
+}
+.step-tone-2 {
+  background: var(--red);
+}
+.step-tone-3 {
+  background: var(--pink);
+}
+.step-tone-4 {
+  background: var(--yellow);
+}
+.admin-section {
+  background: var(--sand);
+  border-radius: 50px;
+  padding: 130px 0;
+}
+.admin-heading {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 100px;
+  align-items: end;
+  margin-bottom: 70px;
+}
+.admin-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+  margin-bottom: 45px;
+}
+.admin-card {
+  background: var(--cream);
+  border-radius: 22px;
+  overflow: hidden;
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  padding: 35px;
+  min-height: 270px;
+}
+.admin-card h3 {
+  font-size: 34px;
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+.admin-card p {
+  font-size: 18px;
+}
+.admin-art {
+  width: 145px;
+  min-width: 145px;
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--pink);
+}
+.admin-art img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  transition: transform 0.5s var(--ease);
+}
+.admin-card:hover .admin-art img {
+  transform: rotate(10deg) scale(1.08);
+}
+.admin-card-1 .admin-art {
+  background: var(--blue);
+}
+.admin-card-2 .admin-art {
+  background: var(--green);
+}
+.admin-card-3 .admin-art {
+  background: var(--yellow);
+}
+.how-section {
+  padding-block: 140px;
+}
+.how-section > h2 {
+  max-width: 100%;
+  font-size: 76px;
+  text-align: center;
+}
+.how-section ol {
+  list-style: none;
+  padding: 0;
+  margin: 75px 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 34px;
+}
+.how-number {
+  display: grid;
+  place-items: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: var(--green);
+  font-size: 40px;
+  margin-bottom: 32px;
+}
+.how-section li:nth-child(2) .how-number {
+  background: var(--pink);
+}
+.how-section li:nth-child(3) .how-number {
+  background: var(--yellow);
+}
+.how-section li:nth-child(4) .how-number {
+  background: var(--red);
+}
+.how-section h3 {
+  font-size: 29px;
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+.how-section p {
+  font-size: 17px;
+  line-height: 1.4;
+  letter-spacing: -0.02em;
+}
+.control-section {
+  background: var(--sand);
+  border-radius: 50px;
+  padding: 120px 0;
+}
+.control-section h2 {
+  max-width: 650px;
+}
+.control-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 70px;
+}
+.control-card {
+  background: var(--cream);
+  border-radius: 30px;
+  padding: 30px;
+  min-height: 350px;
+}
+.control-icon {
+  display: grid;
+  place-items: center;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  background: var(--green);
+  font-size: 29px;
+  margin-bottom: 50px;
+}
+.control-card-1 .control-icon {
+  background: var(--pink);
+}
+.control-card-2 .control-icon {
+  background: var(--yellow);
+}
+.control-card h3 {
+  font-size: 30px;
+  line-height: 1.15;
+  margin-bottom: 25px;
+}
+.control-card p {
+  font-size: 18px;
+  line-height: 1.4;
+  letter-spacing: -0.025em;
+}
+.control-note {
+  max-width: 760px;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 40px;
+}
+.faq-section {
+  display: grid;
+  grid-template-columns: 0.85fr 1.4fr;
+  gap: 100px;
+  padding-block: 150px;
+}
+.faq-section h2 {
+  position: sticky;
+  top: 140px;
+  align-self: start;
+}
+.faq-item {
+  border-bottom: 1px solid #2c2e2a30;
+}
+.faq-item:first-child {
+  border-top: 1px solid #2c2e2a30;
+}
+.faq-item summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+  list-style: none;
+  cursor: pointer;
+  padding: 28px 0;
+  font-size: 23px;
+  line-height: 1.3;
+  letter-spacing: -0.035em;
+}
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+.faq-item summary span {
+  flex: 0 0 36px;
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--green);
+  font-size: 28px;
+  transition: transform 0.25s;
+}
+.faq-item[open] summary span {
+  transform: rotate(45deg);
+  background: var(--pink);
+}
+.faq-item p {
+  font-size: 18px;
+  line-height: 1.5;
+  max-width: 590px;
+  padding-bottom: 30px;
+}
+.faq-item[open] p {
+  animation: faq-enter 0.25s ease;
+}
+@keyframes faq-enter {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

@@ -1,0 +1,93 @@
+.footer-section {
+  position: relative;
+  padding: 130px 0 40px;
+  border-radius: 50px 50px 0 0;
+  background: var(--yellow);
+  color: var(--ink);
+}
+
+.footer-heading {
+  max-width: 1100px;
+  font-size: 100px;
+  line-height: 0.98;
+  letter-spacing: -0.06em;
+  text-wrap: balance;
+}
+
+.footer-description {
+  margin-top: 40px;
+  margin-bottom: 28px;
+  font-size: 21px;
+  line-height: 1.35;
+  letter-spacing: -0.035em;
+}
+
+.footer-closing .action-link:hover {
+  background: var(--cream);
+}
+
+.footer-navigation {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 24px;
+  margin-top: 110px;
+  margin-bottom: 76px;
+}
+
+.footer-group-title {
+  margin: 0 0 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.025em;
+}
+
+.footer-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-links li + li {
+  margin-top: 10px;
+}
+
+.footer-link {
+  display: inline;
+  font-size: 15px;
+  line-height: 1.5;
+  letter-spacing: -0.015em;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+  transition: text-decoration-color 0.2s;
+}
+
+.footer-link:hover {
+  text-decoration-color: currentColor;
+}
+
+.footer-cookie-button {
+  padding: 0;
+  background: none;
+  text-align: left;
+}
+
+.footer-brand {
+  display: inline-block;
+  margin-bottom: 35px;
+}
+
+.footer-logo {
+  width: 250px;
+  height: auto;
+}
+
+.footer-trademarks {
+  max-width: 900px;
+  padding-top: 25px;
+  border-top: 1px solid rgb(44 46 42 / 20%);
+  font-size: 13px;
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+}

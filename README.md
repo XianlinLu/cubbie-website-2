@@ -38,7 +38,7 @@ The content check requires Python 3 and compares all 172 in-scope source text no
 
 ## Scope
 
-Desktop layout targeting 1440 px. No mobile menu or mobile layout breakpoints. Desktop dropdowns, weekday tabs, FAQ disclosures, anchor navigation, cookie preferences, scroll reveals and original Rive animations are functional. External feature, integration and sign-in links lead to the original Cubbie destinations. The replica does not connect accounts, send email, or submit assignments. Cookie controls save local preferences; no analytics or marketing trackers are included.
+Desktop layout targeting 1440 px. No mobile menu or mobile layout breakpoints. Desktop dropdowns, weekday tabs, FAQ disclosures, anchor navigation, cookie preferences, scroll reveals and original Rive animations are functional. External feature, integration and sign-in links lead to the original Cubbie destinations. The replica does not connect accounts, send email, or submit assignments. The automatic privacy banner has been removed. Only the explicitly opened footer cookie settings save local preferences; no analytics or marketing trackers are included.
 
 Cubbie's complete copy requires more sections and different title wrapping than the original reference. This is an adapted Cubbie implementation of the MindMarket design, not an identical screenshot of the original market-research page.
 
