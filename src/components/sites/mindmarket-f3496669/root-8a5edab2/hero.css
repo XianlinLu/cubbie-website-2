@@ -142,7 +142,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 100px;
-  padding-top: 130px;
+  padding-top: calc(14.5vw + 40px);
   padding-bottom: 80px;
   align-items: start;
   position: relative;
